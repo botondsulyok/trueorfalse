@@ -1,5 +1,3 @@
 #
-First #T
-Second #T
 False #F
 True #T
